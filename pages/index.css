@@ -1,0 +1,14 @@
+@import '../vendor/normalize.css';
+@import '../fonts/fonts.css';
+@import '../vendor/chief-slider.min.css';
+@import "../blocks/root/root.css";
+@import "../blocks/header/header.css";
+@import "../blocks/slider/slider.css";
+@import "../blocks/block/block.css";
+@import "../blocks/response/response.css";
+@import "../blocks/block-text/block-text.css";
+@import "../blocks/map/map.css";
+@import "../blocks/competence/competence.css";
+@import "../blocks/news/news.css";
+@import "../blocks/footer/footer.css";
+@import "../blocks/menu/menu.css";
