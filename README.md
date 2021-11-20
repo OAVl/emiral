@@ -1,5 +1,5 @@
-# Проект: Emiral
+# Emiral
 
-### Ссылка на проект
+### Ссылка на проект:
 
 https://oavl.github.io/emiral/
